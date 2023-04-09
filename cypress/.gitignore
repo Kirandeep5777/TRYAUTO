@@ -1,0 +1,2 @@
+touch .gitignore
+node_modules/
